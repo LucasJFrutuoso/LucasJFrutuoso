@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos 
 - E mais por vir...
 
 ## Projetos em Destaque:
-- [Projeto 1](projetos/projeto1): Breve descrição do projeto.
+- [Projeto 1](https://github.com/LucasJFrutuoso/LucasJFrutuoso.git): Implementação de um banco de dados simples.
 - [Projeto 2](projetos/projeto2): Breve descrição do projeto.
 
 Sinta-se à vontade para explorar os repositórios e contribuir! ✨
