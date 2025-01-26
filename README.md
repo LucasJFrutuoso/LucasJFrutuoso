@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Frutuoso! 👋
 
-Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos e experimentos que desenvolvi e estou deenvolvendo ao longo da minha jornada.
+Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos e experimentos que desenvolvi e estou deenvolvendo ao longo da minha jornada como estudante de ciência da computação!
 
 ## Tecnologias que estou aprendendo:
 - Python 🐍
