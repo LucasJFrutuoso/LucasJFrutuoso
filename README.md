@@ -15,7 +15,7 @@ Este projeto é um banco de dados desenvolvido para simular o sistema de uma esc
   - `Insert-Table-Materia.sql`: Script para popular o banco com dados sobre as matérias.
   - `Insert-Table-Professor.sql`: Script para popular o banco com dados sobre os prfessores.
   - `Consulta-BD.sql`: Exemplos de consultas SQL.
-- `diagramas/`: Diagramas do banco (Ex.: Diagrama ER).
+- `diagramas/`: Diagrama do banco.
 
 ## Como Usar:
 1. Execute o script `Create-BD-Escola.sql` em seu gerenciador de banco de dados (MySQL, SSMS, etc.).
