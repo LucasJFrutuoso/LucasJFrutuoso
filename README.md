@@ -12,6 +12,6 @@ Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos 
 
 ## Projetos em Destaque:
 - [Projeto 1](https://github.com/LucasJFrutuoso/LucasJFrutuoso/tree/master): Implementação de um banco de dados simples.
-- [Projeto 2](projetos/projeto2): Breve descrição do projeto.
+- [Projeto 2](): Projeto em conclusão.
 
 Sinta-se à vontade para explorar os repositórios e contribuir! ✨
