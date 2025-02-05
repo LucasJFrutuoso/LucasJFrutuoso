@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Frutuoso! 👋
+# Olá, eu sou o Lucas! 👋
 
 Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos e experimentos que desenvolvi e estou deenvolvendo ao longo da minha jornada como estudante de ciência da computação!
 
