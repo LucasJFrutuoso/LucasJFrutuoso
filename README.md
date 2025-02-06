@@ -15,7 +15,7 @@ A ideia de postar os projetos um á um é de formar uma linha do tempo. Deixando
 ## Projetos HTML E CSS em Destaque:
 
 - [Projeto 1](https://github.com/LucasJFrutuoso/LucasJFrutuoso/commit/28847e2175e55a7485d3724aea8c2a7c29ace889#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051): Projeto página de uma cafeteria utilizando HTML e CSS.
-- [Projeto 2](): Projeto re-leitura de uma página de uma empresa utilizando HTML e CSS puro.
+- [Projeto 2](https://github.com/LucasJFrutuoso/LucasJFrutuoso/commit/337ec7d2ef61a01c6b653a44f8d75978082d15fb#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051): Projeto releitura de uma página de uma empresa utilizando HTML e CSS puro.
 
 ## Projetos em linguagem SQL em Destaque:
 
