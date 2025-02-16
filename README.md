@@ -21,7 +21,7 @@ A ideia de postar os projetos um á um é de formar uma linha do tempo. Deixando
 ## Projetos linguagem SQL em Destaque:
 
 - [Projeto 1](https://github.com/LucasJFrutuoso/LucasJFrutuoso/tree/master): Implementação de um banco de dados simples.
-- 
+  
 ## Projetos JAVA em Destaque:
 
 - [Projeto 1](https://github.com/LucasJFrutuoso/Projetos-DIO-Java-basico.git): Projeto cadastro conta bancária.
