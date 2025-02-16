@@ -8,6 +8,7 @@ Bem-vindo ao meu portfólio de programação! 🚀 Aqui você encontra projetos 
 - SQL
 - HTML
 - CSS
+- JAVA
 - E mais por vir...
 
 A ideia de postar os projetos um á um é de formar uma linha do tempo. Deixando minha evolução em evidência. Os primeiros serão aqueles mais simples com poucos ou sem nenhuma funcionalidade(páginas estáticas), ao decorrer da minha carreira de estudante irei postando atualizações de projetos já existentes ou/e a criação de novos, mas com códigos mais robustos e com mais funcionalidades.
