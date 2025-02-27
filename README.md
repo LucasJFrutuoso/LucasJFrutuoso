@@ -25,5 +25,6 @@ A ideia de postar os projetos um á um é de formar uma linha do tempo. Deixando
 ## Projetos JAVA em Destaque:
 
 - [Projeto 1](https://github.com/LucasJFrutuoso/Projetos-bootcamp-DIO/tree/main/src): Projeto cadastro conta bancária.
+- [Projeto 2](https://github.com/LucasJFrutuoso/Projetos-bootcamp-DIO/tree/master/agenciaBancaria): Projeto de banco simulando saque/depositos, criação de contas correntes e contas poupanças. Utilizando alguns conceitos de POO(Encapsulamento, Herança e polimorfismo).
 
 Sinta-se à vontade para explorar os repositórios e contribuir! ✨
