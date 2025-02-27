@@ -24,6 +24,6 @@ A ideia de postar os projetos um á um é de formar uma linha do tempo. Deixando
   
 ## Projetos JAVA em Destaque:
 
-- [Projeto 1](https://github.com/LucasJFrutuoso/Projetos-DIO-Java-basico.git): Projeto cadastro conta bancária.
+- [Projeto 1](https://github.com/LucasJFrutuoso/Projetos-bootcamp-DIO/tree/main/src): Projeto cadastro conta bancária.
 
 Sinta-se à vontade para explorar os repositórios e contribuir! ✨
